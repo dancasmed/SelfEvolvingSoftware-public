@@ -31,10 +31,10 @@ This experimental console application demonstrates a novel approach to software 
 - DeepSeek API key (for cloud model)
 - [GitHub Personal Access Token ](https://github.com/settings/tokens)
 
-### Setup
-```bash
-git clone https://github.com/your-repo/generative-software-poc.git
-```
+### Download compiled version
+- [SelfEvolvingSoftware_PoC_1_0-linux-x64](https://github.com/dancasmed/SelfEvolvingSoftware-public/releases/download/v1.0.0/SelfEvolvingSoftware_PoC_1_0-linux-x64.zip)
+- [SelfEvolvingSoftware_PoC_1_0-osx-arm64](https://github.com/dancasmed/SelfEvolvingSoftware-public/releases/download/v1.0.0/SelfEvolvingSoftware_PoC_1_0-osx-arm64.zip)
+- [SelfEvolvingSoftware_PoC_1_0-win-x64](https://github.com/dancasmed/SelfEvolvingSoftware-public/releases/download/v1.0.0/SelfEvolvingSoftware_PoC_1_0-win-x64.zip)
 
 ## Configuration
 
